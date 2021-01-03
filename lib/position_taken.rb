@@ -1,4 +1,4 @@
-#board = [" "," "," "," "," "," "," "," "," "]
+board = [" "," "," "," "," "," "," "," "," "]
 
  def position_taken? (board, index)
    if position " " == false || position "" == false
