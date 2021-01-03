@@ -1,1 +1,3 @@
-# code your #position_taken? method here!
+board = [" "," "," "," "," "," "," "," "," "]
+
+position_taken? (board, index)
