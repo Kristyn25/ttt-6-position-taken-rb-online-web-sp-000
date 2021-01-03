@@ -2,6 +2,6 @@
 
  def position_taken? (board, index)
    if position " " == false || position "" == false
-  else 
+  else
     true
 end
